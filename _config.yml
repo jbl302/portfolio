@@ -1,9 +1,6 @@
-# title: Jai Bhagat
-
-title: "Jai Bhagat"
-theme: "Hacker"
+title: Jai Bhagat
 
 # logo: /assets/img/headshot_circle.png
 # #description: text below image
 # show_downloads: true
-# theme: Hacker
+theme: jekyll-theme-minimal
