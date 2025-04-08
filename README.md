@@ -56,7 +56,7 @@ I am an AI/ML enthusiast researcher and aspiring data analyst with a strong back
 
 ## 📫 Connect with Me
 - **GitHub:** [github.com/jbl302](https://github.com/jbl302)
-- **LinkedIn:** [linkedin.com/in/jai-bhagat](https://www.linkedin.com/in/jai-bhagat)
+- **LinkedIn:** [linkedin.com/in/jai-bhagat](https://www.linkedin.com/in/jai-bhagat-171477239/)
 - **Kaggle:** [kaggle.com/jaibhagat007](https://www.kaggle.com/jaibhagat007)
 - **Codeforces:** [codeforces.com/profile/Jbl302](https://codeforces.com/profile/Jbl302)
 - **CodeChef:** [codechef.com/users/jbl302](https://www.codechef.com/users/jbl302)
